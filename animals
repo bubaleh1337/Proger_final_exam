@@ -1,0 +1,20 @@
+  926  cat > Домашние_животные.txt
+  927  cat > Вьючные_животные.txt
+  928  cat Домашние_животные.txt Вьючные_животные.txt > Друзья_человека.txt
+  929  cat Друзья_человека.txt
+  930  sudo mkdir Animals_GB
+  931  sudo mv Друзья_человека.txt Animals_GB/
+  932  cd Animals_GB/
+  933  ls
+  934  cd..
+  935  cd ..
+  936  sudo apt update
+  937  sudo apt install mysql-client
+  938  sudo kill 6813
+  939  sudo apt install mysql-client
+  940  sudo dpkg -i mypackage.deb
+  941  sudo dpkg -r mypackage
+  942  history
+ekaterina@ekaterina-HP-PC:~$ 
+
+
